@@ -63,7 +63,7 @@
 
        
 
-       ![image-20241028110004710](./image-20241028110004710.png)
+       ![image-20241028110004710](https://github.com/zhtswang/antchainBridge_poc/blob/main/image-20241028110004710.png)
 
      - [跨链桥 SDK]([GitHub - AntChainOpenLabs/AntChainBridgePluginSDK: AntChainBridge 插件SDK和插件池](https://github.com/AntChainOpenLabs/AntChainBridgePluginSDK))
 
